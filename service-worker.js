@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/curri_online/precache-manifest.a69e068007564c820ce6164905fccc29.js"
+  "/curri_online/precache-manifest.98d437d20cad44c0117e011b8682e62f.js"
 );
 
 self.addEventListener('message', (event) => {

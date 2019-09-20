@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/curri_online/static/css/main.b100e6da.chunk.css",
-    "main.js": "/curri_online/static/js/main.a8d075cc.chunk.js",
-    "main.js.map": "/curri_online/static/js/main.a8d075cc.chunk.js.map",
+    "main.css": "/curri_online/static/css/main.34de6062.chunk.css",
+    "main.js": "/curri_online/static/js/main.1d0c520d.chunk.js",
+    "main.js.map": "/curri_online/static/js/main.1d0c520d.chunk.js.map",
     "runtime-main.js": "/curri_online/static/js/runtime-main.d8da1368.js",
     "runtime-main.js.map": "/curri_online/static/js/runtime-main.d8da1368.js.map",
-    "static/js/2.d46452a8.chunk.js": "/curri_online/static/js/2.d46452a8.chunk.js",
-    "static/js/2.d46452a8.chunk.js.map": "/curri_online/static/js/2.d46452a8.chunk.js.map",
+    "static/js/2.4020f3dc.chunk.js": "/curri_online/static/js/2.4020f3dc.chunk.js",
+    "static/js/2.4020f3dc.chunk.js.map": "/curri_online/static/js/2.4020f3dc.chunk.js.map",
     "index.html": "/curri_online/index.html",
-    "precache-manifest.a69e068007564c820ce6164905fccc29.js": "/curri_online/precache-manifest.a69e068007564c820ce6164905fccc29.js",
+    "precache-manifest.98d437d20cad44c0117e011b8682e62f.js": "/curri_online/precache-manifest.98d437d20cad44c0117e011b8682e62f.js",
     "service-worker.js": "/curri_online/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/curri_online/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/curri_online/static/media/logo.25bf045c.svg"
+    "static/css/main.34de6062.chunk.css.map": "/curri_online/static/css/main.34de6062.chunk.css.map",
+    "static/media/icon_software.png": "/curri_online/static/media/icon_software.8345ba3b.png"
   }
 }
