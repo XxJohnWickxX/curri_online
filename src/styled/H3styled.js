@@ -8,6 +8,6 @@ const StyledH2 = styled.h2`
     color: #FF9445;
 `;
 
-const H2styled = ({ name }) => <StyledH2>{name}</StyledH2>;
+const H2styled = ({ children }) => <StyledH2>{ children }</StyledH2>;
 
 export default H2styled;
