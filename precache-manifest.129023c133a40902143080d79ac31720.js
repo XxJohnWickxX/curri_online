@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd72f2798f859ed0e7845e456ea19ed4",
+    "revision": "15fd8b3d145923833f49de55e2b6699b",
     "url": "/curri_online/index.html"
   },
   {
-    "revision": "22ba163c03b06ddac6c0",
+    "revision": "9868b51a58e8c007b583",
     "url": "/curri_online/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curri_online/static/js/2.4020f3dc.chunk.js"
   },
   {
-    "revision": "22ba163c03b06ddac6c0",
-    "url": "/curri_online/static/js/main.9ce1debf.chunk.js"
+    "revision": "9868b51a58e8c007b583",
+    "url": "/curri_online/static/js/main.6a5a1393.chunk.js"
   },
   {
     "revision": "88dfe9a98626ece99ed5",
